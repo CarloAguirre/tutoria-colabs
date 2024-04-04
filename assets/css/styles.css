@@ -9,6 +9,7 @@
 body{
     /* NUMERO 10: Añadir el font-family: 'Roboto', sans-serif,'Staatliches', cursive; */
     background-color: var(--color-bg);
+    font-family: 'Roboto', sans-serif,'Staatliches', cursive;
 }
 
 .nav-hover{
