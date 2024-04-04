@@ -1,0 +1,27 @@
+:root{
+    --font-family: 'Roboto', sans-serif,'Staatliches', cursive;
+    --color-principal: #28a745;
+    --color-fuente: #212529;
+    --color-fuenteSegundaria: #707070;
+    --color-bg: #fff;
+    --color-card: #F8F9FA;
+}
+body{
+    /* NUMERO 10: Añadir el font-family: 'Roboto', sans-serif,'Staatliches', cursive; */
+    background-color: var(--color-bg);
+}
+
+.nav-hover{
+    color: var(--color-bg);
+    opacity: .5;
+}
+.nav-hover:hover{
+    color: var(--color-bg);
+    opacity: 1;
+}
+
+.font-bold{
+    /* NUMERO 11: Añadir un font font-weight: 900 */
+    font-size: larger;
+}
+
